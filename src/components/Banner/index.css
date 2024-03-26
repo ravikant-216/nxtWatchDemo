@@ -1,0 +1,29 @@
+.banner-div1 {
+  display: flex;
+  justify-content: space-between;
+}
+.banner-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  height: 100%;
+  border-radius: 12px;
+  padding: 12px;
+  margin: 12px;
+}
+.banner-img {
+  width: 160px;
+}
+.banner-but {
+  width: 160px;
+  height: 50px;
+  color: black;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+.cross {
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.Temp-div2 {
+  display: flex;
+}
+.rr {
+  width: 90%;
+  height: 91vh;
+  margin-top: 83px;
+  margin-left: 20%;
+}
+.head {
+  position: fixed;
+  width: 100%;
+  background-color: aliceblue;
+}
+.navbar {
+  position: fixed;
+  background-color: aliceblue;
+  margin-top: 73px;
+  width: 20%;
+}
